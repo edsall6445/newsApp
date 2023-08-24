@@ -34,7 +34,7 @@
 90C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\escalade133372301497222107 1
 156C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\addClassesToSVGElement.js133372301498101934 0
 90C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\mdn-data133372301505481418 1
-73C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist133373280217166856 1
+73C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist133373745918546476 1
 95C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\dotenv-expand133372301495299256 1
 127C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\features\async-functions.js133372301506841332 0
 137C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node133372301513961372 0
@@ -42,7 +42,7 @@
 113C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\regions\GI.js133372301527163891 0
 115C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\electron-to-chromium\package.json133372301499781907 0
 86C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\.bin133372301546781940 1
-79C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\index.html133373257155901326 0
+79C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\index.html133373712489735121 0
 113C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\regions\MW.js133372301532123863 0
 120C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\features\template.js133372301536366773 0
 115C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\css-tree\lib\syntax\node\index.js133372301519401640 0
@@ -81,7 +81,7 @@
 118C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\features\hidden.js133372301527803673 0
 92C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\color-name133372301492737381 1
 122C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\caniuse-lite\data\features\websockets.js133372301538526869 0
-79C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\scripts.js133373246801790202 0
+79C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\scripts.js133373745918211582 0
 98C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\js-yaml\lib\type133372301505321457 1
 111C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\domutils\lib\helpers.d.ts.map133372301499221989 0
 112C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@swc\helpers\cjs\_to_array.cjs133372301511561323 0
@@ -5462,7 +5462,7 @@
 145C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\stringifier.js133372301511161264 0
 116C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\core\lib\CommittedAsset.js133372301509001257 0
 139C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\style.js133372301511241335 0
-84C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.html133373273432571151 0
+84C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.html133373743781692762 0
 135C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo133372301512601316 1
 114C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\core\lib\public\Asset.js133372301503541918 0
 143C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo-node.js133372301511321268 0
@@ -5971,6 +5971,6 @@
 97C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\.bin\semver.ps1133372301546781940 0
 95C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\.bin\svgo.cmd133372301546781940 0
 95C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\node_modules\.bin\svgo.ps1133372301546781940 0
-91C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.b2335e0c.js133373273432571151 0
-95C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.b2335e0c.js.map133373273432651170 0
+91C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.b2335e0c.js133373745918476465 0
+95C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\index.b2335e0c.js.map133373745918536479 0
 97C:\Users\edsall6445\Desktop\NucampFolder\WebDev\2-Javascript\newsApp\dist\newsApp.3464ddca.js.map133373242157713759 0

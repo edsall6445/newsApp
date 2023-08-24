@@ -587,25 +587,34 @@ async function fetchNews() {
 }
 function displayNews(articles) {
     for (let article of articles){
-        const artDiv = document.createElement("div");
-        artDiv.classList.add("newsArticle");
-        const title = document.createElement("h2");
-        title.textContent = article.title;
-        artDiv.appendChild(title);
-        const description = document.createElement("p");
-        description.textContent = article.description;
-        artDiv.appendChild(description);
+        const bCard = document.createElement("div");
+        bCard.classList.add("newsArticle");
         if (article.img) {
             const artImg = document.createElement("img");
             artImg.src = article.image;
-            artDiv.appendChild("artImg");
+            artImg.classList.add("card-img-top");
+            artImg.alt = article.title;
+            bCard.appendChild(artImg);
         }
+        const cardBody = document.createElement("div");
+        cardBody.classList.add("card-body");
+        const title = document.createElement("h4");
+        title.classList.add("card-title");
+        title.textContent = article.title;
+        const description = document.createElement("p");
+        description.classList.add = "card-content";
+        description.textContent = article.description;
         const link = document.createElement("a");
-        link.textContent = "Want to read more?";
         link.href = article.url;
+        link.classList.add("btn", "btn-primary");
+        link.textContent = "Want to read more?";
         link.target = `_blank`;
-        artDiv.appendChild(link);
-        document.getElementById("news").appendChild(artDiv);
+        cardBody.appendChild(title);
+        cardBody.appendChild(description);
+        cardBody.appendChild(link);
+        bCard.appendChild(cardBody);
+        const box = document.getElementById("news");
+        box.appendChild(bCard);
     }
 }
 fetchNews();
