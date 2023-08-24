@@ -1,5 +1,5 @@
 const apiKey = process.env.NEWS_API_KEY;
-const url = `https://newsapi.org/v2/top-headlines?apiKey=${apiKey}`;
+const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
 
 async function fetchNews() {
     try{
